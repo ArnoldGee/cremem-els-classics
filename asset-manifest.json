@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cremem-els-classics/static/css/main.5de288b9.chunk.css",
+    "main.js": "/cremem-els-classics/static/js/main.8ddac168.chunk.js",
+    "main.js.map": "/cremem-els-classics/static/js/main.8ddac168.chunk.js.map",
+    "runtime-main.js": "/cremem-els-classics/static/js/runtime-main.b2341059.js",
+    "runtime-main.js.map": "/cremem-els-classics/static/js/runtime-main.b2341059.js.map",
+    "static/js/2.91fb5cf7.chunk.js": "/cremem-els-classics/static/js/2.91fb5cf7.chunk.js",
+    "static/js/2.91fb5cf7.chunk.js.map": "/cremem-els-classics/static/js/2.91fb5cf7.chunk.js.map",
+    "index.html": "/cremem-els-classics/index.html",
+    "static/css/main.5de288b9.chunk.css.map": "/cremem-els-classics/static/css/main.5de288b9.chunk.css.map",
+    "static/js/2.91fb5cf7.chunk.js.LICENSE.txt": "/cremem-els-classics/static/js/2.91fb5cf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2341059.js",
+    "static/js/2.91fb5cf7.chunk.js",
+    "static/css/main.5de288b9.chunk.css",
+    "static/js/main.8ddac168.chunk.js"
+  ]
+}
